@@ -7,4 +7,4 @@
 
 - 🔭 I’m currently researching the neural correlates of abstract action representations
 - 🌱 I'm always learning! Currently, I've started to delve into topics in computer vision
-- 🧠 At the moment, I am trying to build my GitHub portfolio website
+- 🧠 At the moment, I am trying to grow my Python skills
